@@ -1,0 +1,7 @@
+  #Genrating random number between 6..15 with given name as paramater
+  
+  #def rand_name_num(name)
+  #  result = name.capitalize + " " + Random.rand(6..15).to_s 
+  #end
+
+
